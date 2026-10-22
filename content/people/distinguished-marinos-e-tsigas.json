@@ -3,10 +3,7 @@
   "name": "Marinos E Tsigas",
   "group": "distinguished",
   "order": 10,
-  "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/distinguished-marinos-e-tsigas.jpg",
-  "image_url": "",
+  "published": false,
+  "image": "/assets/content/people/distinguished-marinos-e-tsigas.jpg",
   "linkedin_url": "https://www.linkedin.com/in/marinos-e-tsigas-1b60769b/"
 }
