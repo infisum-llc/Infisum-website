@@ -1,12 +1,10 @@
 {
-  "slug": "core-c-karthikeyan",
-  "name": "C Karthikeyan",
-  "group": "core",
-  "order": 4,
+  "slug": "consultants-c-karthikeyan",
+  "name": "Dr C Karthikeyan",
+  "group": "consultants",
+  "order": 1,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-c-karthikeyan.jpg",
-  "image_url": "",
+  "role": "Research Fellow",
+  "image": "/assets/content/people/core-c-karthikeyan.jpg",
   "linkedin_url": "https://www.linkedin.com/in/karthikeyan-chandramohan-52a2aa42"
 }
