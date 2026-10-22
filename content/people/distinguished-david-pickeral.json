@@ -3,10 +3,7 @@
   "name": "David Pickeral",
   "group": "distinguished",
   "order": 13,
-  "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/distinguished-david-pickeral.jpeg",
-  "image_url": "",
+  "published": false,
+  "image": "/assets/content/people/distinguished-david-pickeral.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/pickeral/"
 }
