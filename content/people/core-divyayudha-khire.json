@@ -1,12 +1,10 @@
 {
-  "slug": "core-divyayudha-khire",
+  "slug": "consultants-divyayudha-khire",
   "name": "Divyayudha Khire",
-  "group": "core",
+  "group": "consultants",
   "order": 3,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-divyayudha-khire.jpeg",
-  "image_url": "",
+  "role": "Senior Data Analyst",
+  "image": "/assets/content/people/core-divyayudha-khire.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/divyayudha-khire-5020651a8"
 }
