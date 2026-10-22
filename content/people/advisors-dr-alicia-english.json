@@ -2,11 +2,8 @@
   "slug": "advisors-dr-alicia-english",
   "name": "Dr. Alicia English",
   "group": "advisors",
-  "order": 3,
+  "order": 128,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-dr-alicia-english.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-dr-alicia-english.jpg",
   "linkedin_url": "https://www.linkedin.com/in/alicia-english-2135a58/"
 }
