@@ -2,11 +2,8 @@
   "slug": "advisors-ms-aanchal-jain",
   "name": "Ms. Aanchal Jain",
   "group": "advisors",
-  "order": 7,
+  "order": 10,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-ms-aanchal-jain.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-ms-aanchal-jain.jpg",
   "linkedin_url": "https://www.linkedin.com/in/anchaljn583/"
 }
