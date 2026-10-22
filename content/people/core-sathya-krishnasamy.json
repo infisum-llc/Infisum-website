@@ -1,12 +1,10 @@
 {
-  "slug": "core-sathya-krishnasamy",
+  "slug": "advisor-sathya-krishnasamy",
   "name": "Sathya Krishnasamy",
-  "group": "core",
-  "order": 11,
+  "group": "advisors",
+  "order": 120,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-sathya-krishnasamy.jpg",
-  "image_url": "",
+  "role": "Blockchain",
+  "image": "/assets/content/people/core-sathya-krishnasamy.jpg",
   "linkedin_url": "https://www.linkedin.com/in/sathya-krishnasamy-3b369a20/"
 }
