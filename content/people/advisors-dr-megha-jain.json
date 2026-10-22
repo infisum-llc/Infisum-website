@@ -3,10 +3,7 @@
   "name": "Dr. Megha Jain",
   "group": "advisors",
   "order": 87,
-  "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-dr-megha-jain.jpeg",
-  "image_url": "",
+  "published": false,
+  "image": "/assets/content/people/advisors-dr-megha-jain.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/dr-megha-jain-2a480752/"
 }
