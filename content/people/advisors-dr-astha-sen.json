@@ -2,11 +2,8 @@
   "slug": "advisors-dr-astha-sen",
   "name": "Dr. Astha Sen",
   "group": "advisors",
-  "order": 6,
+  "order": 11,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-dr-astha-sen.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-dr-astha-sen.jpg",
   "linkedin_url": "https://www.linkedin.com/in/astha-sen-economist/"
 }
