@@ -1,12 +1,10 @@
 {
-  "slug": "core-krithika-shankaran",
+  "slug": "advisor-krithika-shankaran",
   "name": "Krithika Shankaran",
-  "group": "core",
-  "order": 10,
+  "group": "advisors",
+  "order": 120,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-krithika-shankaran.jpeg",
-  "image_url": "",
+  "role": "Strategic Partner",
+  "image": "/assets/content/people/core-krithika-shankaran.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/krithika-shankaran-9bb548b8"
 }
