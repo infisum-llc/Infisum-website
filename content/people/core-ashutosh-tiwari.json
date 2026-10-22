@@ -1,12 +1,9 @@
 {
-  "slug": "core-ashutosh-tiwari",
+  "slug": "advisor-ashutosh-tiwari",
   "name": "Ashutosh Tiwari",
-  "group": "core",
-  "order": 17,
+  "group": "advisors",
+  "order": 112,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-ashutosh-tiwari.jpeg",
-  "image_url": "",
+  "image": "/assets/content/people/core-ashutosh-tiwari.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/ashutosh-tiwari-74768a62"
 }
