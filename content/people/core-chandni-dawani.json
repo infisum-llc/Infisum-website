@@ -1,9 +1,10 @@
 {
   "slug": "advisor-chandni-dawani",
-  "name": "Chandni Dawani",
+  "name": "Dr. Chandni Dawani",
   "group": "advisors",
   "order": 113,
   "published": true,
   "image": "/assets/content/people/core-chandni-dawani.jpeg",
-  "linkedin_url": "https://www.linkedin.com/in/chandni-dawani-613431b4/"
+  "linkedin_url": "https://www.linkedin.com/in/chandni-dawani-613431b4/",
+  "role": "Research Fellow"
 }
