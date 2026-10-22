@@ -1,12 +1,9 @@
 {
-  "slug": "core-chris-clague",
+  "slug": "advisor-chris-clague",
   "name": "Chris Clague",
-  "group": "core",
-  "order": 14,
+  "group": "advisors",
+  "order": 114,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-chris-clague.jpeg",
-  "image_url": "",
+  "image": "/assets/content/people/core-chris-clague.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/chris-clague-6a8a996/"
 }
