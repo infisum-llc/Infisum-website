@@ -145,6 +145,8 @@ content:
               label: Distinguished advisors
             - name: advisors
               label: Advisors
+            - name: consultants
+              label: Consultants
       - name: order
         label: Display order
         type: number
