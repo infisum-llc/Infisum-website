@@ -1,12 +1,9 @@
 {
   "slug": "core-a-k-misra",
   "name": "A.K.Misra",
-  "group": "core",
-  "order": 18,
+  "group": "advisors",
+  "order": 111,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-a-k-misra.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/core-a-k-misra.jpg",
   "linkedin_url": "https://www.linkedin.com/in/akhilesh-misra-ak-ms-mba-cssbb-00461210"
 }
