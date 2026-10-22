@@ -1,12 +1,10 @@
 {
-  "slug": "core-joydeep-hazra",
+  "slug": "advisor-joydeep-hazra",
   "name": "Joydeep Hazra",
-  "group": "core",
-  "order": 19,
+  "group": "advisors",
+  "order": 119,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-joydeep-hazra.jpeg",
-  "image_url": "",
+  "role": "Technology Partnerships",
+  "image": "/assets/content/people/core-joydeep-hazra.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/joydeeph/"
 }
