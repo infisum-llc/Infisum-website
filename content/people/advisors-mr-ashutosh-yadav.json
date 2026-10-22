@@ -1,12 +1,9 @@
 {
   "slug": "advisors-mr-ashutosh-yadav",
-  "name": "Mr. Ashutosh Yadav",
+  "name": "Dr. Ashutosh Yadav",
   "group": "advisors",
-  "order": 4,
+  "order": 9,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-mr-ashutosh-yadav.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-mr-ashutosh-yadav.jpg",
   "linkedin_url": "https://linkedin.com/in/ashutosh-yadav-a181b08b"
 }
