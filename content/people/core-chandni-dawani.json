@@ -1,12 +1,9 @@
 {
   "slug": "core-chandni-dawani",
   "name": "Chandni Dawani",
-  "group": "core",
-  "order": 13,
+  "group": "advisors",
+  "order": 113,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-chandni-dawani.jpeg",
-  "image_url": "",
+  "image": "/assets/content/people/core-chandni-dawani.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/chandni-dawani-613431b4/"
 }
