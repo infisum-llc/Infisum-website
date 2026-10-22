@@ -1,12 +1,9 @@
 {
-  "slug": "core-vibhu-rakesh",
+  "slug": "advisor-vibhu-rakesh",
   "name": "Vibhu Rakesh",
-  "group": "core",
-  "order": 21,
+  "group": "advisors",
+  "order": 121,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-vibhu-rakesh.jpeg",
-  "image_url": "",
+  "image": "/assets/content/people/core-vibhu-rakesh.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/vibhu-rakesh-27705a62/"
 }
