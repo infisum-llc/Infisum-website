@@ -1,12 +1,10 @@
 {
-  "slug": "core-dr-spencer-cohen",
+  "slug": "advisors-dr-spencer-cohen",
   "name": "Dr. Spencer Cohen",
-  "group": "core",
-  "order": 8,
+  "group": "advisors",
+  "order": 118,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-dr-spencer-cohen.jpg",
-  "image_url": "",
+  "role": "Senior Research Fellow",
+  "image": "/assets/content/people/core-dr-spencer-cohen.jpg",
   "linkedin_url": "https://www.linkedin.com/in/spencer-cohen-phd-%E6%9F%AF%E8%A5%BF%E6%9C%AC-%E5%8D%9A%E5%A3%AB-4651469"
 }
