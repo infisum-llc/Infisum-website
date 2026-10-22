@@ -1,12 +1,10 @@
 {
-  "slug": "core-nambu-narayani-n",
+  "slug": "consultants-nambu-narayani-n",
   "name": "Nambu Narayani N",
-  "group": "core",
+  "group": "consultants",
   "order": 5,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-nambu-narayani-n.jpg",
-  "image_url": "",
+  "role": "Data Analyst",
+  "image": "/assets/content/people/core-nambu-narayani-n.jpg",
   "linkedin_url": "https://www.linkedin.com/in/nambu-narayani-66609a211"
 }
