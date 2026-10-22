@@ -1,10 +1,10 @@
 {
-  "slug": "core-yuvan-krishnamurthy",
-  "name": "Yuvan Krishnamurthy",
+  "slug": "core-dr-shobha-ka",
+  "name": "Dr Shobha KA",
   "group": "core",
-  "order": 23,
-  "published": false,
-  "role": "Intern",
-  "image": "/assets/content/people/core-yuvan-krishnamurthy.png",
-  "linkedin_url": "https://www.linkedin.com/in/yuvan-krishnamurthy-1043a2363/"
+  "order": 4,
+  "published": true,
+  "role": "Research and Data Analyst",
+  "image": "/assets/content/shobhaka-1.jpeg",
+  "linkedin_url": "https://www.linkedin.com/in/shobha-k-a-573a8715a/"
 }
