@@ -2,11 +2,8 @@
   "slug": "advisors-dr-aaron-shew",
   "name": "Dr. Aaron Shew",
   "group": "advisors",
-  "order": 1,
+  "order": 129,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-dr-aaron-shew.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-dr-aaron-shew.jpg",
   "linkedin_url": "https://www.linkedin.com/in/aaron-m-shew/"
 }
