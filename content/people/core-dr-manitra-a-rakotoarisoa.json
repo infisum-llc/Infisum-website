@@ -1,12 +1,8 @@
 {
-  "slug": "core-dr-manitra-a-rakotoarisoa",
+  "slug": "advisor-dr-manitra-a-rakotoarisoa",
   "name": "Dr. Manitra A.Rakotoarisoa",
-  "group": "core",
-  "order": 9,
+  "group": "advisors",
+  "order": 115,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-dr-manitra-a-rakotoarisoa.jpg",
-  "image_url": "",
-  "linkedin_url": null
+  "image": "/assets/content/people/core-dr-manitra-a-rakotoarisoa.jpg"
 }
