@@ -1,8 +1,8 @@
 {
-  "slug": "advisors-dr-spencer-cohen",
+  "slug": "core-dr-spencer-cohen",
   "name": "Dr. Spencer Cohen",
-  "group": "advisors",
-  "order": 118,
+  "group": "core",
+  "order": 5,
   "published": true,
   "role": "Senior Research Fellow",
   "image": "/assets/content/people/core-dr-spencer-cohen.jpg",
