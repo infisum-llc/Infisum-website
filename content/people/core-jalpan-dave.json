@@ -1,12 +1,9 @@
 {
-  "slug": "core-jalpan-dave",
+  "slug": "advisor-jalpan-dave",
   "name": "Jalpan Dave",
-  "group": "core",
-  "order": 20,
+  "group": "advisors",
+  "order": 118,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-jalpan-dave.jpeg",
-  "image_url": "",
+  "image": "/assets/content/people/core-jalpan-dave.jpeg",
   "linkedin_url": "https://www.linkedin.com/in/jalpan-dave/"
 }
