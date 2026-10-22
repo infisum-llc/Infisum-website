@@ -1,12 +1,10 @@
 {
-  "slug": "core-dr-sadhana-srivastava",
+  "slug": "advisors-dr-sadhana-srivastava",
   "name": "Dr. Sadhana Srivastava",
-  "group": "core",
-  "order": 15,
+  "group": "advisors",
+  "order": 115,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-dr-sadhana-srivastava.jpg",
-  "image_url": "",
+  "role": "Senior Research Fellow",
+  "image": "/assets/content/people/core-dr-sadhana-srivastava.jpg",
   "linkedin_url": "https://www.linkedin.com/in/sadhana-srivastava-phd-59210125/"
 }
