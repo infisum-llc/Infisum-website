@@ -2,11 +2,8 @@
   "slug": "advisors-mr-ali-dadkhah",
   "name": "Mr. Ali Dadkhah",
   "group": "advisors",
-  "order": 2,
+  "order": 127,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-mr-ali-dadkhah.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-mr-ali-dadkhah.jpg",
   "linkedin_url": "https://www.linkedin.com/in/ali-dadkhah-597ab524/"
 }
