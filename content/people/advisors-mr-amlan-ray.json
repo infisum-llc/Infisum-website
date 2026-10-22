@@ -1,12 +1,9 @@
 {
   "slug": "advisors-mr-amlan-ray",
-  "name": "Mr. Amlan Ray",
+  "name": "Dr. Amlan Ray",
   "group": "advisors",
   "order": 9,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/advisors-mr-amlan-ray.jpg",
-  "image_url": "",
+  "image": "/assets/content/people/advisors-mr-amlan-ray.jpg",
   "linkedin_url": "https://www.linkedin.com/in/amlan-ray-b259064/"
 }
