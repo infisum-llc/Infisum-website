@@ -1,8 +1,8 @@
 {
-  "slug": "consultants-c-karthikeyan",
+  "slug": "core-c-karthikeyan",
   "name": "Dr C Karthikeyan",
-  "group": "consultants",
-  "order": 1,
+  "group": "core",
+  "order": 3,
   "published": true,
   "role": "Research Fellow",
   "image": "/assets/content/people/core-c-karthikeyan.jpg",
