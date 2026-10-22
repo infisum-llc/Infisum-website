@@ -1,12 +1,10 @@
 {
-  "slug": "core-dr-rahul-sen",
+  "slug": "advisor-dr-rahul-sen",
   "name": "Dr. Rahul Sen",
-  "group": "core",
-  "order": 12,
+  "group": "advisors",
+  "order": 115,
   "published": true,
-  "role": "",
-  "bio": "",
-  "image": "assets/content/people/core-dr-rahul-sen.jpg",
-  "image_url": "",
+  "role": "Senior Research Fellow",
+  "image": "/assets/content/people/core-dr-rahul-sen.jpg",
   "linkedin_url": "https://www.linkedin.com/in/rahul-sen-39a7741a/"
 }
