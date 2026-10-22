@@ -144,7 +144,7 @@ content:
             - name: distinguished
               label: Distinguished advisors
             - name: advisors
-              label: Advisors
+              label: Advisors & Fellows
             - name: consultants
               label: Consultants
       - name: order
